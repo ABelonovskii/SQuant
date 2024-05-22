@@ -1,0 +1,7 @@
+'Layer.str'		structure file
+'friqrt.dat'		hw, r1, t1, r2, t2
+'profile'		profile
+0.0     incidence angle [degrees]
+0.0,  20.0 photon energy (real part) limits: hw0[eV], hwl[ev]
+0.1     step hw[ev]
+1       step z [nm]

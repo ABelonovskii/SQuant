@@ -22,7 +22,7 @@ Ensure you have the following Python packages installed:
 - `mpmath`
 - `pyqtgraph`
 - `PyQt5`
-- 
+  
 You can install the necessary packages using the following command:
 ```bash
 pip install -r requirements.txt
